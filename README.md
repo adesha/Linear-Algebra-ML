@@ -1,2 +1,2 @@
 # Linear-Algebra-ML
-Visualization of Linear algebraic models using Python
+Visualization of Linear algebraic models using Python.
